@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-## My name is Maryam Al-Zadjali, a Motivated Computer Science graduate with a specialization in Software Technology and hands-on experience in full-stack development. Proficient in front-end tools like HTML, CSS, JavaScript, and React, as well as back-end technologies including Python, Java, Django, and Node.js. Skilled in database management (SQL/NoSQL) and cloud deployment using Azure and Google Cloud. Completed a technical project management internship at Ooredoo. Recognized on the Dean’s List with a 4.0 GPA and developed impactful projects like Kuttob, a reading assistant app, and CheMastry VR, a virtual reality game for chemistry education.
+## My name is Maryam Al-Zadjali, a Motivated Computer Science graduate with a specialization in Software Technology and hands-on experience in full-stack development. 
+
+- Recognized on the Dean’s List with a 4.0 GPA 
+- Developed impactful projects like Kuttob, a reading assistant app, and CheMastry VR, a virtual reality game for chemistry education.
+- Submitted a research article in the East Journal Of Human Science Titled: CheMastry VR: Redefining Science Learning With Intelligent Virtual Labs.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maryam-al-zadjali-4b14b8325/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maryam.alzadjali808@gmail.com) 
