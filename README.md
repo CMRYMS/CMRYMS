@@ -1,8 +1,7 @@
 # Hi there 👋
+# My name is Maryam Al-Zadjali, a Motivated Computer Science graduate with a specialization in Software Technology and hands-on experience in full-stack development. 
 
-## My name is Maryam Al-Zadjali, a Motivated Computer Science graduate with a specialization in Software Technology and hands-on experience in full-stack development. 
-
-# My Achievements
+## My Achievements
 - Recognized on the Dean’s List with a 4.0 GPA 
 - Developed impactful projects like Kuttob, a reading assistant app, and CheMastry VR, a virtual reality game for chemistry education.
 - Submitted a research article in the East Journal Of Human Science Titled: CheMastry VR: Redefining Science Learning With Intelligent Virtual Labs.
