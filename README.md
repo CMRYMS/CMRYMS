@@ -1,5 +1,5 @@
 # Hi there 👋
-# My name is Maryam Al-Zadjali, a Motivated Computer Science graduate with a specialization in Software Technology and hands-on experience in full-stack development. 
+My name is Maryam Al-Zadjali, a Motivated Computer Science graduate with a specialization in Software Technology and hands-on experience in full-stack development. 
 
 ## My Achievements
 - Recognized on the Dean’s List with a 4.0 GPA 
